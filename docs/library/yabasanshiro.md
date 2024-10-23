@@ -1,4 +1,4 @@
-# Sega - Saturn (Yabause)
+# Sega - Saturn (YabaSanshiro)
 
 ## Background
 
